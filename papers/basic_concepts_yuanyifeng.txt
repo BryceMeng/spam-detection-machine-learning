@@ -1,0 +1,8 @@
+http://www.ruanyifeng.com/blog/2011/08/bayesian_inference_part_one.html
+https://www.ruanyifeng.com/blog/2011/08/bayesian_inference_part_two.html
+
+
+用Bayesian来做分类
+https://zhuanlan.zhihu.com/p/67883024
+https://zhuanlan.zhihu.com/p/60728684
+https://zhuanlan.zhihu.com/p/60835620
